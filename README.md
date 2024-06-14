@@ -87,3 +87,4 @@
 * If you see a green tick beside them, it mean checkin supported
 ![image](https://github.com/zvyap/hoyoverse-github-action-daily-checkin/assets/52874570/2a80e30d-df1b-4763-a3e2-1f57365d29e2)
 * And it run every midnight 12:15
+
