@@ -30,7 +30,7 @@ public class CheckInDailyTest {
                             .name("HoyoDaily")
                             .build())
                         .game(GameType.HONKAI_STAR_RAIL)
-                        // .game(GameType.ZENLESS_ZONE_ZERO)
+                        .game(GameType.ZENLESS_ZONE_ZERO)
                         .build()
 
 
